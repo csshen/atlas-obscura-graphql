@@ -4,7 +4,7 @@
   "description": "This is a graphql api for Atlas Obscura.",
   "main": "index.js",
   "scripts": {
-    "build": "cd functions && npm install",
+    "build": "cd functions && npm install"
   },
   "repository": {
     "type": "git",
